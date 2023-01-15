@@ -1,0 +1,2 @@
+1. Created numerical variable for the price of the purchased vehicle. Did the calculation of midpoint of the range. e.g. 0 to 15000 is converted to 0+15000/2 = 7500
+2. Repeated #1 for appraisal_offer
